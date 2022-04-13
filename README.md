@@ -2,7 +2,7 @@
 
 Define el método `num_average` que recibe una serie de strings como argumento y obtiene de cada serie el promedio de los dos números que forman la serie. El resultado de las comparaciones en el `driver code` debe ser `true`. 
 
-Restricción: No está permitido definir uno o más arreglos dentro del método.
+>Restricción: No está permitido definir uno o más arreglos dentro del método.
 
 ```ruby
 #num_average method
